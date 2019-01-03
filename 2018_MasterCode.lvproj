@@ -148,6 +148,7 @@ AddOutputFilter chunkFilter
 		<Item Name="LowerSwitchPressed.vi" Type="VI" URL="../LowerSwitchPressed.vi"/>
 		<Item Name="IntegerTester.vi" Type="VI" URL="../IntegerTester.vi"/>
 		<Item Name="Slide Prevention.vi" Type="VI" URL="../Slide Prevention.vi"/>
+		<Item Name="Control 1.ctl" Type="VI" URL="../Control 1.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
@@ -779,7 +780,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">54</Property>
+				<Property Name="Bld_version.build" Type="Int">53</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
